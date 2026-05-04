@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Estoque — AnuncioLab
+# Sistema de Gerenciamento de Estoque
 
 **Disciplina:** Programação Orientada a Objetos (POO)  
 **Instituição:** Uniube  
